@@ -9,5 +9,10 @@ Project 2
 The second assignment focuses on adding a second skill to an Agent, called FIPA for agent-based communication protocol to participate in auctions.
  
 In short, add an Auctioneer (new Agent) that tries to sell a product at the festival using the FIPA communication skills. The Guests should communicate back using FIPA. The interaction should be based on the Dutch auction (can be found in slides) where the Auctioneer starts at a high price and reduces it in every round if no one is willing to buy it. If the price reaches a bare minimum price, the auction is terminated.
+
+Project 3
+
+The third assignment focuses on coordination between agents to achieve a task. 
+For the first part, please consider that each queen can only talk to its predecessor and its successor.
  
 
