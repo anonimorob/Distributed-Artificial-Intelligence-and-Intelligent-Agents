@@ -1,7 +1,7 @@
 /**
 * Name: BasicModel
 * Based on the internal empty template. 
-* Author: Kat,Adele
+* Author: Adele, Kat
 * Tags: 
 */
 
