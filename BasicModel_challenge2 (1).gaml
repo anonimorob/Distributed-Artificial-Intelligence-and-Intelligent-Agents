@@ -1,6 +1,6 @@
 /**
 * Name: BasicModel_challenge2
-* Author: Kat,Adele
+* Author: Adele, Kat
 * Tags: 
 */
 
