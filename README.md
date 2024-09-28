@@ -1,4 +1,3 @@
-Distributed Artificial Intelligence Projects
 This repository contains three assignments that explore agent-based systems using the GAMA platform and FIPA communication protocols.
 
 Project 1: GAMA and Agent-Based Simulation
