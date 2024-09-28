@@ -1,20 +1,14 @@
-Project1 - GAMA and agents
+Distributed Artificial Intelligence Projects
+This repository contains three assignments that explore agent-based systems using the GAMA platform and FIPA communication protocols.
 
-The first assignment focuses on the introduction to the GAMA platform and implementing a simple simulation for you to get familiar with the environment and agents.
+Project 1: GAMA and Agent-Based Simulation
+This project introduces the GAMA platform for agent-based simulations. The task involves creating a festival simulation where Guests (Agents) experience hunger or thirst. When this occurs, they visit an Information Center (Agent) to inquire about the nearest Store (Agent) that provides food or drinks. Once satisfied, the Guests resume their activities until they become hungry or thirsty again.
 
-In short, create a project that simulates a festival where Guests (Agents) get hungry or thirsty. If they do, they should go to an Information Center (Agent) to ask for the nearest Store (Agent) that gives them what they need. Afterward, the Guests should simply keep doing something until they get hungry/thirsty again.
+Project 2: Negotiation and Communication (FIPA)
+In this assignment, FIPA (Foundation for Intelligent Physical Agents) communication protocols are implemented to simulate a Dutch auction. A new Auctioneer (Agent) is introduced at the festival to sell products. The Auctioneer communicates with Guests using FIPA protocols, gradually lowering the price until a buyer is found or the auction is terminated.
 
-
-Project 2 - Negotiation and Communication (FIPA)
-
-The second assignment focuses on adding a second skill to an Agent, called FIPA for agent-based communication protocol to participate in auctions.
- 
-In short, add an Auctioneer (new Agent) that tries to sell a product at the festival using the FIPA communication skills. The Guests should communicate back using FIPA. The interaction should be based on the Dutch auction (can be found in slides) where the Auctioneer starts at a high price and reduces it in every round if no one is willing to buy it. If the price reaches a bare minimum price, the auction is terminated.
+Project 3: Coordination and Utility
+This project focuses on agent coordination. In a variation of the classic N-Queens problem, Queens (Agents) are only allowed to communicate with their immediate predecessor and successor. The goal is to achieve coordinated decision-making under these constraints.
 
 
-Project 3 - Coordination and Utility
-
-The third assignment focuses on coordination between agents to achieve a task. 
-For the first part, please consider that each queen can only talk to its predecessor and its successor.
- 
 
